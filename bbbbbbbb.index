@@ -5,6 +5,13 @@
     <title>Website Tusaale</title>
     <link rel="stylesheet" href="style.css">
 </head>
+<ul>
+        <li>Home</li>
+        <li>Fashion Cusub</li>
+        <li>Dharka Ragga</li>
+        <li>Dharka Dumarka</li>
+        <li>Nala Soo Xiriir</li>
+    </ul>
 <body>
 
     <header>
@@ -26,4 +33,5 @@
     </footer>
 
 </body>
+
 </html>
