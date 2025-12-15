@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="so">
+<head>
+    <meta charset="UTF-8">
+    <title>Website Tusaale</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Ku Soo Dhawoow Website-kayga</h1>
+        <p>HTML & CSS ku dhisan</p>
+    </header>
+
+    <section class="content">
+        <h2>Ku Saabsan</h2>
+        <p>
+            Tani waa website fudud oo qurux badan
+            oo lagu dhisay HTML iyo CSS.
+        </p>
+        <button>Riix Halkan</button>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Website-kayga</p>
+    </footer>
+
+</body>
+</html>
